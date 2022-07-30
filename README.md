@@ -84,6 +84,7 @@ This project is presently deployed in **Netlify Service**
   - ✔ Background property 
   - ✔ Box Shadow
   - ✔ Positioning
+  - ✔ Pseudo elements
   - ✔ Working with svg files
 <!-- NOTE -->
 
