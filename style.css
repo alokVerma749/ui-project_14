@@ -115,8 +115,6 @@ body {
   top: 12%;
   left: 7%;
   color: #000000;
-  -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-width: 1px;
 }
 
 .social-media-lists {
@@ -315,4 +313,39 @@ body {
   left: 123.5%;
   height: 100px;
   width: 2px;
+}
+
+@media screen and (max-width:850px){
+  .navbar .nav-lists{
+    display: none;
+  }
+  .social-media-lists {
+    margin: 20px;
+}
+  .header-section::before {
+    display: none;
+  }
+  .hero-image .person-image{
+    display: none;
+  }
+  .header-outer-div {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+  }
+  
+  .hero-text .hero-heading {
+    font-size: 55px;
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    margin-left: 160px;
+}
+.hero-button {
+  align-self: center;
+}
+.hero-footer {
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
 }
