@@ -10,15 +10,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/alokVerma749/weather-app">
+  <a href="https://github.com/alokVerma749/uiproject_14">
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
-<h3 align="center">Weather App</h3>
+<h3 align="center">Project 14</h3>
 
   <p align="center">
     <br />
-    <a href="https://alokverma-weatherapp.netlify.app/">Live Link</a>
+    <a href="https://alokverma-uiproject-14.netlify.app/">Live Link</a>
   </p>
 </div>
 
@@ -42,18 +42,26 @@
 
 ## About The Project
 
-![Weather App: Weather Ap](https://github.com/alokVerma749/WeatherApp/blob/master/demo.png)
+![Project 14: uiproject-14](https://github.com/alokVerma749/ui-project_14/blob/master/14.png)
 
-Here's a project learnt and build using React js and Tailwind CSS
+Here's a project learnt and build the project based on HTML5 and CSS3 only
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
-## 🛠 Technologies Used
-  - React.js - Library for frontend
-  - TailwindCSS - CSS Library
-  
-##  🛒🛒 Data Source
-  - OpenWeatherAPI - weather api
+## Built With
+
+**Using Technologies**
+
+1. ![HTML][html-shield]
+2. ![CSS][css-shield]
+
+**Using Tools**
+
+1. ![Chrome][chrome-shield]
+2. ![VS Code][vscode-shield]
+3. ![Git][git-shield]
+4. ![Github][github-shield]
+5. ![Netlify][netlify-shield]
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
@@ -61,25 +69,56 @@ Here's a project learnt and build using React js and Tailwind CSS
 
 This project is presently deployed in **Netlify Service**
 
-[![Netlify][netlify-shield]](https://github.com/alokVerma749/WeatherApp)
+[![Netlify][netlify-shield]][project-url]
 
-[Live Project URL](https://alokverma-weatherapp.netlify.app/)  
-  
+[Live Project URL](https://alokverma-uiproject-14.netlify.app/)
+
+<!-- LEARNT -->
+
+## Learnt
+
+- ✔ HTML 5
+- ✔ CSS 3
+  - ✔ Flexbox
+  - ✔ CSS Selectors
+  - ✔ Background property 
+  - ✔ Box Shadow
+  - ✔ Positioning
+  - ✔ Pseudo elements
+  - ✔ Working with svg files
+<!-- NOTE -->
+
+## Note
+
+For this project I took around `7 to 8 hours` to complete it. The major portion of my time spent in working on designing the cards with line and dots.
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
+<!-- Recommended Articles -->
+
+## Recommended Articles
+
+1. [**Detail guide on CSS Selector with code examples.**](https://alokverma.hashnode.dev/detail-guide-on-css-selector-with-code-examples)
+
+2. [**Detail guide to position in CSS with code examples**](https://alokverma.hashnode.dev/detail-guide-to-position-in-css-with-code-examples)
+
+3. [**Quick Git Explanation with Cheat sheet**](https://alokverma.hashnode.dev/quick-git-explanation-with-cheat-sheet)
+
+4. [**Glance at Markdown**](https://alokverma.hashnode.dev/glance-at-markdown)
 
 <!-- CONTACT -->
 
-## ✍️ Author and 📞 Contact
-- [Alok Verma](https://www.github.com/alokverma749)
-    - [Linkedin](https://www.linkedin.com/in/alok-verma-71106a1a0/)
-    - [Website](https://alokverma.netlify.app)
+## Contact
 
+- **Name :** Alok Verma
+- **Email :** alokverma749@gmail.com
+- **Website :** [alokverma.netlify.app](https://alokverma.netlify.app)
 
-Project Link: [link](https://github.com/alokVerma749/WeatherApp)
+Project Link: [link](https://github.com/alokVerma749/ui-project_14)
 
 <!-- BACK TO TOP -->
+
+[![Product Name Screen Shot][backtotop-shield]](#top)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -117,3 +156,7 @@ Project Link: [link](https://github.com/alokVerma749/WeatherApp)
 [git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 
+<!-- Project screenshot -->
+
+[product-screenshot]: https://github.com/alokVerma749/ui-project_14/blob/master/14.png
+[project-url]: https://alokverma-uiproject-14.netlify.app/
